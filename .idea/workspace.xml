@@ -42,7 +42,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager" selected="Python.animal (1)">
     <configuration name="animal (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -131,7 +131,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578165716743</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add pycharm work to git repo for assignment 1">
+      <created>1578167127707</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578167127707</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add pycharm work to git repo for assignment 1">
+      <created>1578167190917</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578167190917</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,11 +187,11 @@
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="199" y="154" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.821@0.23.1440.821" timestamp="1578151712786" />
-    <state x="333" y="48" key="CommitChangelistDialog2" timestamp="1578167127352">
+    <state x="333" y="48" key="CommitChangelistDialog2" timestamp="1578167190693">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="333" y="48" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1578165716361" />
-    <state x="333" y="48" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1578167127352" />
+    <state x="333" y="48" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1578167190693" />
     <state x="333" y="48" key="CommitChangelistDialog2/1440.23.1920.1057/0.23.1440.821@0.23.1440.821" timestamp="1578160479796" />
     <state x="133" y="106" width="1152" height="656" key="DiffContextDialog" timestamp="1578165434838">
       <screen x="0" y="23" width="1440" height="822" />
@@ -216,24 +230,25 @@
     <state width="1236" height="196" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1578165640914" />
     <state width="618" height="196" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.820@0.23.1440.820" timestamp="1578160900852" />
     <state width="1246" height="196" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1578109018187" />
-    <state x="211" y="84" key="SettingsEditor" timestamp="1578166230320">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state x="211" y="84" key="SettingsEditor" timestamp="1578167647758">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="211" y="84" key="SettingsEditor/0.23.1440.820@0.23.1440.820" timestamp="1578164196453" />
     <state x="211" y="84" key="SettingsEditor/0.23.1440.822@0.23.1440.822" timestamp="1578166230320" />
+    <state x="211" y="84" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1578167647757" />
     <state x="211" y="84" key="SettingsEditor/1440.23.1920.1057/0.23.1440.820@0.23.1440.820" timestamp="1578158995334" />
     <state x="211" y="84" key="SettingsEditor/1440.23.1920.1057/0.23.1440.821@0.23.1440.821" timestamp="1578159771303" />
     <state width="500" height="400" key="SwitcherDM" timestamp="1578158554015">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
     <state width="500" height="400" key="SwitcherDM/1440.23.1920.1057/0.23.1440.820@0.23.1440.820" timestamp="1578158554015" />
-    <state x="309" y="185" key="Vcs.Push.Dialog.v2" timestamp="1578167170639">
+    <state x="309" y="185" key="Vcs.Push.Dialog.v2" timestamp="1578167316264">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="309" y="185" key="Vcs.Push.Dialog.v2/0.23.1440.820@0.23.1440.820" timestamp="1578164706399" />
     <state x="309" y="185" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1578165426919" />
     <state x="309" y="185" key="Vcs.Push.Dialog.v2/0.23.1440.822@0.23.1440.822" timestamp="1578166029285" />
-    <state x="309" y="185" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1578167170639" />
+    <state x="309" y="185" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1578167316264" />
     <state x="181" y="159" width="1057" height="573" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1578159367053">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
