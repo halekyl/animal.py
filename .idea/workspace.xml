@@ -152,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578167658232</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add pycharm work to git repo for assignment 1">
+      <created>1578168834445</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1578168834445</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,11 +201,11 @@
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="199" y="154" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.821@0.23.1440.821" timestamp="1578151712786" />
-    <state x="333" y="48" key="CommitChangelistDialog2" timestamp="1578167657985">
+    <state x="333" y="48" key="CommitChangelistDialog2" timestamp="1578168834197">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="333" y="48" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1578165716361" />
-    <state x="333" y="48" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1578167657985" />
+    <state x="333" y="48" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1578168834197" />
     <state x="333" y="48" key="CommitChangelistDialog2/1440.23.1920.1057/0.23.1440.821@0.23.1440.821" timestamp="1578160479796" />
     <state x="133" y="106" width="1152" height="656" key="DiffContextDialog" timestamp="1578165434838">
       <screen x="0" y="23" width="1440" height="822" />
@@ -249,13 +256,13 @@
       <screen x="0" y="23" width="1440" height="820" />
     </state>
     <state width="500" height="400" key="SwitcherDM/1440.23.1920.1057/0.23.1440.820@0.23.1440.820" timestamp="1578158554015" />
-    <state x="309" y="185" key="Vcs.Push.Dialog.v2" timestamp="1578167717351">
+    <state x="309" y="185" key="Vcs.Push.Dialog.v2" timestamp="1578168841459">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="309" y="185" key="Vcs.Push.Dialog.v2/0.23.1440.820@0.23.1440.820" timestamp="1578164706399" />
     <state x="309" y="185" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1578165426919" />
     <state x="309" y="185" key="Vcs.Push.Dialog.v2/0.23.1440.822@0.23.1440.822" timestamp="1578166029285" />
-    <state x="309" y="185" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1578167717351" />
+    <state x="309" y="185" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1578168841459" />
     <state x="181" y="159" width="1057" height="573" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1578159367053">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
@@ -268,6 +275,10 @@
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="386" y="277" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1578165280063" />
+    <state x="465" y="244" key="git4idea.merge.GitMergeDialog" timestamp="1578169171259">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="465" y="244" key="git4idea.merge.GitMergeDialog/0.23.1440.823@0.23.1440.823" timestamp="1578169171259" />
     <state x="330" y="200" width="700" height="530" key="recent.locations.popup" timestamp="1578158610977">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
