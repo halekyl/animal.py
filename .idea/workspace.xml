@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="959b0924-1c49-4701-9dc6-3872b60254ab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/osu-cs162-w2020/project-1-kylee-hal" />
+      </set>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VufkHJbdWs7mz7htb5DoLchiin" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Python.animal (1)">
+    <configuration name="animal (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="animal.py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/animal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="animal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="animal.py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.animal (1)" />
+        <item itemvalue="Python.animal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="959b0924-1c49-4701-9dc6-3872b60254ab" name="Default Changelist" comment="" />
+      <created>1578108041764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578108041764</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Add pycharm work to git repo for assignment 1 by kyleehale">
+      <created>1578160480300</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578160480300</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="Add pycharm work to git repo for assignment 1 by kyleehale" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add pycharm work to git repo for assignment 1 by kyleehale" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="111" key="#Notifications" timestamp="1578164250022">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="309" y="111" key="#Notifications/0.23.1440.820@0.23.1440.820" timestamp="1578164250022" />
+    <state x="309" y="111" key="#Notifications/0.23.1440.821@0.23.1440.821" timestamp="1578161617952" />
+    <state x="309" y="111" key="#Notifications/1440.23.1920.1057/0.23.1440.820@0.23.1440.820" timestamp="1578158204763" />
+    <state x="405" y="71" key="#animal" timestamp="1578154085848">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="405" y="71" key="#animal/1440.23.1920.1057/0.23.1440.820@0.23.1440.820" timestamp="1578154085848" />
+    <state x="405" y="71" key="#animal_(1)" timestamp="1578154120120">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="405" y="71" key="#animal_(1)/1440.23.1920.1057/0.23.1440.820@0.23.1440.820" timestamp="1578154120120" />
+    <state x="199" y="154" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578151712786">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="199" y="154" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.821@0.23.1440.821" timestamp="1578151712786" />
+    <state x="333" y="48" key="CommitChangelistDialog2" timestamp="1578160479796">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="333" y="48" key="CommitChangelistDialog2/1440.23.1920.1057/0.23.1440.821@0.23.1440.821" timestamp="1578160479796" />
+    <state x="133" y="106" width="1152" height="656" key="DiffContextDialog" timestamp="1578165434838">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="133" y="106" key="DiffContextDialog/0.23.1440.820@0.23.1440.820" timestamp="1578164699950" />
+    <state x="133" y="106" width="1152" height="656" key="DiffContextDialog/0.23.1440.822@0.23.1440.822" timestamp="1578165434838" />
+    <state width="1236" height="196" key="GridCell.Tab.0.bottom" timestamp="1578165640915">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="618" height="196" key="GridCell.Tab.0.bottom/0.23.1440.820@0.23.1440.820" timestamp="1578164721811" />
+    <state width="1246" height="196" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1578151739634" />
+    <state width="1236" height="196" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1578165640915" />
+    <state width="618" height="196" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.820@0.23.1440.820" timestamp="1578160900853" />
+    <state width="1246" height="196" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1578109018188" />
+    <state width="1236" height="196" key="GridCell.Tab.0.center" timestamp="1578165640914">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="618" height="196" key="GridCell.Tab.0.center/0.23.1440.820@0.23.1440.820" timestamp="1578164721809" />
+    <state width="1246" height="196" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1578151739632" />
+    <state width="1236" height="196" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1578165640914" />
+    <state width="618" height="196" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.820@0.23.1440.820" timestamp="1578160900851" />
+    <state width="1246" height="196" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1578109018186" />
+    <state width="1236" height="196" key="GridCell.Tab.0.left" timestamp="1578165640913">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="618" height="196" key="GridCell.Tab.0.left/0.23.1440.820@0.23.1440.820" timestamp="1578164721808" />
+    <state width="1246" height="196" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1578151739631" />
+    <state width="1236" height="196" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1578165640913" />
+    <state width="618" height="196" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.820@0.23.1440.820" timestamp="1578160900850" />
+    <state width="1246" height="196" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1578109018185" />
+    <state width="1236" height="196" key="GridCell.Tab.0.right" timestamp="1578165640914">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="618" height="196" key="GridCell.Tab.0.right/0.23.1440.820@0.23.1440.820" timestamp="1578164721810" />
+    <state width="1246" height="196" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1578151739633" />
+    <state width="1236" height="196" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1578165640914" />
+    <state width="618" height="196" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.820@0.23.1440.820" timestamp="1578160900852" />
+    <state width="1246" height="196" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1578109018187" />
+    <state x="211" y="84" key="SettingsEditor" timestamp="1578164196453">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="211" y="84" key="SettingsEditor/0.23.1440.820@0.23.1440.820" timestamp="1578164196453" />
+    <state x="211" y="84" key="SettingsEditor/1440.23.1920.1057/0.23.1440.820@0.23.1440.820" timestamp="1578158995334" />
+    <state x="211" y="84" key="SettingsEditor/1440.23.1920.1057/0.23.1440.821@0.23.1440.821" timestamp="1578159771303" />
+    <state width="500" height="400" key="SwitcherDM" timestamp="1578158554015">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="500" height="400" key="SwitcherDM/1440.23.1920.1057/0.23.1440.820@0.23.1440.820" timestamp="1578158554015" />
+    <state x="309" y="185" key="Vcs.Push.Dialog.v2" timestamp="1578165426919">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="309" y="185" key="Vcs.Push.Dialog.v2/0.23.1440.820@0.23.1440.820" timestamp="1578164706399" />
+    <state x="309" y="185" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1578165426919" />
+    <state x="181" y="159" width="1057" height="573" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1578159367053">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="181" y="159" width="1057" height="573" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1440.23.1920.1057/0.23.1440.820@0.23.1440.820" timestamp="1578159367053" />
+    <state x="181" y="159" width="1057" height="573" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1578157323344">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="181" y="159" width="1057" height="573" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/1440.23.1920.1057/0.23.1440.820@0.23.1440.820" timestamp="1578157323344" />
+    <state x="386" y="277" key="com.intellij.ide.util.TipDialog" timestamp="1578165280063">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="386" y="277" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1578165280063" />
+    <state x="330" y="200" width="700" height="530" key="recent.locations.popup" timestamp="1578158610977">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="330" y="200" width="700" height="530" key="recent.locations.popup/1440.23.1920.1057/0.23.1440.820@0.23.1440.820" timestamp="1578158610977" />
+  </component>
+</project>
